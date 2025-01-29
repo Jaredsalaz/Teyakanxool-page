@@ -393,7 +393,7 @@ img {
   width: 300px;
   position: absolute;
   top: 4rem;
-  right: -9rem;
+  right: -10rem;
 }
 
 /*=============== PRODUCTS ===============*/
@@ -756,7 +756,7 @@ img {
     width: 100px;
   }
   .discount__img {
-    width: 350px;
+    width: 550px;
   }
   .footer__container {
     padding-top: 3rem;
